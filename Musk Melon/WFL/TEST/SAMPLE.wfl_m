@@ -8,5 +8,6 @@ DISPLAY "HELLO WORLD 2";                                                        
 %END                                                                              00003750
                                                                                   00003875
 %test comment                                                                     00003937
+%sdf                                                                              00003952
 %test comment JUly                                                                00003968
 END JOB;                                                                          00004000
