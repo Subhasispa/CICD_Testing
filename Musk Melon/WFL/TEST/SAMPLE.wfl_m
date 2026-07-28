@@ -7,4 +7,5 @@ DISPLAY "HELLO WORLD 2";                                                        
 %COMMENT 1                                                                        00003666
 %END                                                                              00003750
 %TEST BACKUP COMMIsssss                                                           00003875
+%test comment                                                                     00003937
 END JOB;                                                                          00004000
