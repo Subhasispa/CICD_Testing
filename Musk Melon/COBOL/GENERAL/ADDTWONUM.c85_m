@@ -26,7 +26,7 @@
 024000  S0000-PROGRAM                  SECTION.                                     
 025000   P0000-PROGRAM.                                                             
 026000                                                                              
-027000     DISPLAY "COBOL Class Program 02".                                        
+027000     DISPLAY "COBOL Class Program 0223".                                      
 028000     DISPLAY " ".                                                             
 029000                                                                              
 030000     DISPLAY "Enter an integer between Zero and 999999".                      
@@ -56,6 +56,7 @@
 051749     DISPLAY "ADDING TWO numbers".                                            
 051777     DISPLAY "HELLO".                                                         
 051791*    TEST BACKUP COMMENssssdd                                                 
+051798     DISPLAY "NEW MESSAGE".                                                   
 051805                                                                              
 051833*    END                                                                      
 052000     STOP RUN.                                                                

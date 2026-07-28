@@ -6,6 +6,7 @@ DISPLAY "QUITING";                                                              
 DISPLAY "HELLO WORLD 2";                                                          00003583
 %COMMENT 1                                                                        00003666
 %END                                                                              00003750
-%TEST BACKUP COMMIsssss                                                           00003875
+                                                                                  00003875
 %test comment                                                                     00003937
+%test comment JUly                                                                00003968
 END JOB;                                                                          00004000
