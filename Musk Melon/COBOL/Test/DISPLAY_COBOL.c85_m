@@ -31,6 +31,9 @@
 031000     MOVE 6                   TO WS-COUNT.                                    
 032000     DISPLAY "HELLO: LINE 06 - COUNT VALUE = " WS-COUNT.                      
 033000     DISPLAY "HELLO: LINE 07 - STEP SEVEN REACHED".                           
+033250     DISPLAY "HELLO: LINE 08 - ALMOST DONE".                                  
+033500     DISPLAY "HELLO: LINE 08 - ALMOST DONE".                                  
+033750     DISPLAY "HELLO: LINE 08 - ALMOST DONE".                                  
 034000     DISPLAY "HELLO: LINE 08 - ALMOST DONE".                                  
 035000     DISPLAY "HELLO: LINE 09 - CLOSING DOWN".                                 
 036000     DISPLAY "HELLO: LINE 10 - PROGRAM ENDED".                                
